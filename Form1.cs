@@ -15,7 +15,7 @@ namespace WinFormsApp
             graphics.FillEllipse(brush, 0, 0, 10, 20);
             graphics.Dispose();
 
-            brush = Brushes.Green;
+            brush = Brushes.Red;
             graphics = CreateGraphics();
             graphics.FillEllipse(brush, 20, 50, 100, 100);
             graphics.Dispose();
