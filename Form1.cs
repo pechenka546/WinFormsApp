@@ -10,12 +10,12 @@ namespace WinFormsApp
     
         private void button1_Click(object sender, EventArgs e)
         {
-            brush = Brushes.Yellow;
+            brush = Brushes.Black;
             Graphics graphics = CreateGraphics();
             graphics.FillEllipse(brush, 0, 0, 10, 20);
             graphics.Dispose();
 
-            brush = Brushes.Red;
+            brush = Brushes.Black;
             graphics = CreateGraphics();
             graphics.FillEllipse(brush, 20, 50, 100, 100);
             graphics.Dispose();
