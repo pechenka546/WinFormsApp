@@ -23,4 +23,4 @@
 ### 4.
 ### Изображения
 
-![Иконка Git](https://avatars.mds.yandex.net/i?id=d42d4e2cf153ab4f7ca1f3a0d2a7e42a_l-9866669-images-thumbs&n=13)
+![Скрин](C:\Users\dav3108\Downloads\1.png)
