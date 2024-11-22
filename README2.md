@@ -23,4 +23,4 @@
 ### 4.
 ### Изображения
 
-![Скрин](C:\Users\dav3108\Downloads\1.png)
+![Скрин](https://github.com/pechenka546/WinFormsApp/blob/master/empty_folder/1.PNG)
